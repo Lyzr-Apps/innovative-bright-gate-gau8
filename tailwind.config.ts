@@ -10,6 +10,11 @@ const config = {
   ],
   prefix: '',
   theme: {
+  	fontFamily: {
+  		sans: ['"Times New Roman"', 'Times', 'Georgia', 'serif'],
+  		serif: ['"Times New Roman"', 'Times', 'Georgia', 'serif'],
+  		mono: ['ui-monospace', 'SFMono-Regular', 'monospace'],
+  	},
   	container: {
   		center: true,
   		padding: '2rem',
