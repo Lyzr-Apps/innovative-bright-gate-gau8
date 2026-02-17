@@ -1,0 +1,17 @@
+{
+  "agent_name": "Chat Agent",
+  "agent_id": "69942cebc194d78a6a0240a4",
+  "agent_type": "json",
+  "accessor": "json",
+  "has_module_outputs": false,
+  "response_schema": {
+    "type": "object",
+    "properties": {
+      "response": {
+        "type": "string",
+        "description": "The agent's conversational reply to the user's message"
+      }
+    },
+    "required": ["response"]
+  }
+}

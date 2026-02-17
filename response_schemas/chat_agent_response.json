@@ -1,0 +1,14 @@
+{
+  "agent_name": "Chat Agent",
+  "agent_id": "69942cebc194d78a6a0240a4",
+  "description": "A conversational AI agent that engages in natural dialogue, answers questions, provides explanations, and maintains context across the conversation using memory",
+  "agent_type": "json",
+  "accessor": "result",
+  "auto_generated": true,
+  "response_schema": {
+    "response": "string"
+  },
+  "example_response": {
+    "response": "The agent's conversational reply to the user's message"
+  }
+}
